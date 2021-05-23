@@ -1,6 +1,6 @@
-### Biography 👽
+### Carl Schou 👽
 
-I'm Carl Schou, the founder of, and reverse engineer at, [secret club](https://secret.club).  
+I'm the founder of, and reverse engineer at, [secret club](https://secret.club).  
 You can reach me on contact@secret.club.
 
 ### Notable repositories 🤖
