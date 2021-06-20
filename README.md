@@ -1,7 +1,7 @@
 ### Carl Schou 👽
 
 I'm the founder of, and reverse engineer at, [secret club](https://secret.club).  
-You can reach me on contact@secret.club.
+You can reach me on email at contact@secret.club.
 
 ### Notable repositories 🤖
 
