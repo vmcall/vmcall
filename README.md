@@ -12,6 +12,7 @@ You can reach me on contact@secret.club.
 [[dxgkrnl_hook](https://github.com/vmcall/dxgkrnl_hook)] Windows graphics kernel subsystem hook in C++ 
 
 ### In the news 💥
+[AppleInsider] [Bug in iOS can break iPhone Wi-Fi using rogue hotspot name](https://appleinsider.com/articles/21/06/19/bug-in-ios-can-break-iphone-wi-fi-using-rogue-hotspot-name)
 [VICE] [‘Counter Strike’ Bug Allows Hackers to Take Over a PC With a Steam Invite](https://www.vice.com/en/article/dyvgej/counter-strike-bug-allows-hackers-to-take-over-a-pc-with-a-steam-invite)  
 [SVG] [Valve's really terrible security hole is no more](https://www.svg.com/388097/valves-really-terrible-security-hole-is-no-more/)  
 [Version2] [Danish leader of hacking group: Steam took two years to patch critical vulnerability](https://www.version2.dk/artikel/dansk-leder-hackergruppe-steam-var-to-aar-at-lukke-gabende-sikkerhedshul-halvt-1092628)  
