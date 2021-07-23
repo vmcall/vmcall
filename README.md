@@ -3,6 +3,9 @@
 I'm the founder of, and reverse engineer at, [secret club](https://secret.club).  
 You can reach me on email at contact@secret.club.
 
+### Exploits 💣
+WiFiDemon – iOS WiFi RCE 0-Day ([CVE-2021-30800](https://support.apple.com/en-us/HT212601))
+
 ### Notable repositories 🤖
 
 [[ayyxam](https://github.com/vmcall/ayyxam)] Bypass for a Danish exam surveillance tool, which made the government retract it  
@@ -18,6 +21,7 @@ You can reach me on email at contact@secret.club.
 [Version2] [Danish leader of hacking group: Steam took two years to patch critical vulnerability](https://www.version2.dk/artikel/dansk-leder-hackergruppe-steam-var-to-aar-at-lukke-gabende-sikkerhedshul-halvt-1092628)  
 [Version2] [High school student dissects the Digital Exam Monitor and finds broken crypto](https://www.version2.dk/artikel/gymnasieelev-piller-digitale-proevevagt-hinanden-finder-90er-kryptering-1087824)  
 [BleepingComputer] [CS:GO, Valve Source games vulnerable to hacking using Steam invites](https://www.bleepingcomputer.com/news/security/cs-go-valve-source-games-vulnerable-to-hacking-using-steam-invites/)  
+
 
 ### Media 👻
 - [Twitter](https://twitter.com/vm_call)
