@@ -4,7 +4,7 @@ I'm the founder of, and reverse engineer at, [secret club](https://secret.club).
 You can reach me on email at contact@secret.club.
 
 ### Exploits 💣
-[[CVE-2021-30800](https://support.apple.com/en-us/HT212601)] WiFiDemon – iOS WiFi RCE 0-Day
+[[CVE-2021-30800](https://support.apple.com/en-us/HT212601)] WiFiDemon – iOS WiFi zero-click RCE 
 
 ### Notable repositories 🤖
 
